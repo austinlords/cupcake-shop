@@ -1,0 +1,12 @@
+h1 {
+  color: blue;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-weight: bold;
+}
